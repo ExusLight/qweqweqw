@@ -1,0 +1,12 @@
+C:\Users\pivo\Desktop\Курсач\Distance education 365+\Distance education 365+\bin\Debug\Distance education 365+.exe.config
+C:\Users\pivo\Desktop\Курсач\Distance education 365+\Distance education 365+\bin\Debug\Distance education 365+.exe
+C:\Users\pivo\Desktop\Курсач\Distance education 365+\Distance education 365+\bin\Debug\Distance education 365+.pdb
+C:\Users\pivo\Desktop\Курсач\Distance education 365+\Distance education 365+\obj\Debug\Distance education 365+.csproj.AssemblyReference.cache
+C:\Users\pivo\Desktop\Курсач\Distance education 365+\Distance education 365+\obj\Debug\Distance_education_365_.Form1.resources
+C:\Users\pivo\Desktop\Курсач\Distance education 365+\Distance education 365+\obj\Debug\Distance_education_365_.Properties.Resources.resources
+C:\Users\pivo\Desktop\Курсач\Distance education 365+\Distance education 365+\obj\Debug\Distance education 365+.csproj.GenerateResource.cache
+C:\Users\pivo\Desktop\Курсач\Distance education 365+\Distance education 365+\obj\Debug\Distance education 365+.csproj.CoreCompileInputs.cache
+C:\Users\pivo\Desktop\Курсач\Distance education 365+\Distance education 365+\obj\Debug\Distance education 365+.exe
+C:\Users\pivo\Desktop\Курсач\Distance education 365+\Distance education 365+\obj\Debug\Distance education 365+.pdb
+C:\Users\pivo\Desktop\Курсач\Distance education 365+\Distance education 365+\obj\Debug\Distance_education_365_.Form2.resources
+C:\Users\pivo\Desktop\Курсач\Distance education 365+\Distance education 365+\obj\Debug\Distance_education_365_.Cоздание.resources
